@@ -1,0 +1,43 @@
+Exporter version: 2.80.1, Blender version: 2.83.13
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\Dragon\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	WARNING: The following armature not visible in scene thus ignored: Armature
+	processing begun of node:  Empty
+		animation processing begun
+			processing action EmptyAction:  in[0 - 300], out[0 - 300]
+	processing begun of mesh:  dragon
+		WARNING: No skeleton with name "Armature" found skeleton ignored.
+		processing begun of material:  dragon_skin
+		processing begun of material:  dragon_metal
+		processing begun of multimaterial:  Dragon.Multimaterial#0
+		num positions      :  9784
+		num normals        :  9784
+		num tangents       :  0
+		num uvs            :  19568
+		num uvs2           :  0
+		num colors         :  39136
+		num triangles      :  11718
+	processing begun of light (POINT):  Point.005
+	processing begun of light (POINT):  Point.004
+	processing begun of light (POINT):  Point.003
+	processing begun of light (POINT):  Point.002
+	processing begun of light (POINT):  Point.001
+	processing begun of light (POINT):  Point
+	processing begun of light (DIRECTIONAL):  Hemi
+	processing begun of light (DIRECTIONAL):  Sun
+========= Writing of JSON file started =========
+	writing mesh:  dragon
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2201 secs

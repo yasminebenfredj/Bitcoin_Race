@@ -1,0 +1,88 @@
+Exporter version: 2.80.1, Blender version: 2.92.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\Dragon\
+	Python World class constructor completed
+	processing begun of mesh:  Eye.R
+		processing begun of material:  Iris
+		processing begun of material:  Pupil
+		processing begun of material:  Sclera
+		processing begun of material:  Cornea
+		processing begun of multimaterial:  dragon2.Multimaterial#0
+		num positions      :  6691
+		num normals        :  6691
+		num tangents       :  0
+		num uvs            :  13382
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13056
+		WARNING: # of 0 area faces found:  128
+	processing begun of mesh:  Eye.L
+		processing begun of material:  Iris
+		processing begun of material:  Pupil
+		processing begun of material:  Sclera
+		processing begun of material:  Cornea
+		registered as also a user of material:  Iris
+		registered as also a user of material:  Pupil
+		registered as also a user of material:  Sclera
+		registered as also a user of material:  Cornea
+		processing begun of multimaterial:  dragon2.Multimaterial#1
+		num positions      :  6691
+		num normals        :  6691
+		num tangents       :  0
+		num uvs            :  13382
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  13056
+		WARNING: # of 0 area faces found:  128
+	processing begun of mesh:  Ground
+		processing begun of material:  Material.002
+		num positions      :  4209
+		num normals        :  4209
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2432
+	processing begun of mesh:  Eyelid
+		processing begun of material:  Material.001
+		num positions      :  39176
+		num normals        :  39176
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  78336
+	processing begun of mesh:  Dragon
+		processing begun of material:  Material
+		num positions      :  105118
+		num normals        :  105118
+		num tangents       :  0
+		num uvs            :  210236
+		num uvs2           :  0
+		num colors         :  420472
+		num triangles      :  185856
+	processing begun of node:  Empty.001
+	processing begun of node:  Empty
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (SPOT):  Key.001
+	processing begun of light (DIRECTIONAL):  Back
+	processing begun of light (DIRECTIONAL):  Fill
+	processing begun of light (SPOT):  Key
+========= Writing of JSON file started =========
+	writing mesh:  Eye.R
+	writing mesh:  Eye.L
+	writing mesh:  Ground
+	writing mesh:  Eyelid
+	writing mesh:  Dragon
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  1 min, 13.3975 secs

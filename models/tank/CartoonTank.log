@@ -1,0 +1,162 @@
+Exporter version: 2.80.1, Blender version: 2.83.13
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\tank\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  Base
+		processing begun of material:  Material
+			processing texture tank_palette_red
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		num positions      :  82
+		num normals        :  82
+		num tangents       :  0
+		num uvs            :  164
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  36
+	processing begun of mesh:  Tracks
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  712
+		num normals        :  712
+		num tangents       :  0
+		num uvs            :  1424
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  288
+	processing begun of mesh:  TracksDef
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  281
+		num normals        :  281
+		num tangents       :  0
+		num uvs            :  562
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  112
+	processing begun of mesh:  Gas
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  1141
+		num normals        :  1141
+		num tangents       :  0
+		num uvs            :  2282
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  440
+	processing begun of mesh:  Turret
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  405
+		num normals        :  405
+		num tangents       :  0
+		num uvs            :  810
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  156
+	processing begun of mesh:  Barrel
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  488
+		num normals        :  488
+		num tangents       :  0
+		num uvs            :  976
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Cube
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  375
+		num normals        :  375
+		num tangents       :  0
+		num uvs            :  750
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  136
+	processing begun of mesh:  Wheel_RightFront
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  476
+		num normals        :  476
+		num tangents       :  0
+		num uvs            :  952
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Wheel_LeftMiddle
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  511
+		num normals        :  511
+		num tangents       :  0
+		num uvs            :  1022
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Wheel_RightBack
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  477
+		num normals        :  477
+		num tangents       :  0
+		num uvs            :  954
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Wheel_RightMiddle
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  510
+		num normals        :  510
+		num tangents       :  0
+		num uvs            :  1020
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Wheel_LeftFront
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  470
+		num normals        :  470
+		num tangents       :  0
+		num uvs            :  940
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+	processing begun of mesh:  Wheel_LeftBack
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  473
+		num normals        :  473
+		num tangents       :  0
+		num uvs            :  946
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  212
+========= Writing of JSON file started =========
+	writing mesh:  Base
+	writing mesh:  Tracks
+	writing mesh:  TracksDef
+	writing mesh:  Gas
+	writing mesh:  Turret
+	writing mesh:  Barrel
+	writing mesh:  Cube
+	writing mesh:  Wheel_RightFront
+	writing mesh:  Wheel_LeftMiddle
+	writing mesh:  Wheel_RightBack
+	writing mesh:  Wheel_RightMiddle
+	writing mesh:  Wheel_LeftFront
+	writing mesh:  Wheel_LeftBack
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2499 secs

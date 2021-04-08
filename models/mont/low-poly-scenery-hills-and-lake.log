@@ -1,0 +1,490 @@
+Exporter version: 2.80.1, Blender version: 2.83.13
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\mont\
+			WARNING: unsupported node type(ShaderNodeHueSaturation) will trigger baking
+			processing texture blouberg_sunrise_1_2k
+	Python World class constructor completed
+	processing begun of mesh:  sun
+		processing begun of material:  sun
+			WARNING: unsupported node type(ShaderNodeRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeRGB) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: UVMap
+			processing texture sun_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture sun_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 3.4585 secs
+		num positions      :  240
+		num normals        :  240
+		num tangents       :  0
+		num uvs            :  480
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  80
+	processing begun of mesh:  Landscape
+		processing begun of material:  GreenLand
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+		processing begun of material:  RockyHill
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+		processing begun of material:  Dirt
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture Landscape_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 3.8123 secs
+		num positions      :  7645
+		num normals        :  7645
+		num tangents       :  0
+		num uvs            :  15290
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2550
+	processing begun of mesh:  water
+		processing begun of material:  water
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture water_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+			bake time:  0 min, 4.1879 secs
+		num positions      :  4609
+		num normals        :  4609
+		num tangents       :  0
+		num uvs            :  9218
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1538
+	processing begun of camera (UniversalCamera):  Camera
+	WARNING: The following object (type - LIGHT_PROBE) is not currently exportable thus ignored: IrradianceVolume
+	processing begun of node:  cameraFocus
+	processing begun of mesh:  tree.003
+		processing begun of material:  trunk
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+		processing begun of material:  leaves
+			WARNING: unsupported node type(ShaderNodeObjectInfo) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture tree_003_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 3.0883 secs
+		num positions      :  1391
+		num normals        :  1391
+		num tangents       :  0
+		num uvs            :  2782
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  tree.002
+		processing begun of material:  trunk
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+		processing begun of material:  leaves
+			WARNING: unsupported node type(ShaderNodeObjectInfo) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture tree_002_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 2.6084 secs
+		num positions      :  1391
+		num normals        :  1391
+		num tangents       :  0
+		num uvs            :  2782
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  tree.001
+		processing begun of material:  trunk
+			WARNING: unsupported node type(ShaderNodeNewGeometry) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+		processing begun of material:  leaves
+			WARNING: unsupported node type(ShaderNodeObjectInfo) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: Metal channel baking required, but not possible, ignored
+			WARNING: Roughness channel baking required, but not possible, ignored
+			WARNING: Refraction channel baking required, but not possible, ignored
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture tree_001_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 3.0344 secs
+		num positions      :  1392
+		num normals        :  1392
+		num tangents       :  0
+		num uvs            :  2784
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  464
+	processing begun of mesh:  rock_01
+		processing begun of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_02
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_04
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.001
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.002
+		mesh is an instance of :  rock_05.  Processing halted.
+	processing begun of mesh:  rock_05.003
+		mesh is an instance of :  rock_05.001.  Processing halted.
+	processing begun of mesh:  rock_02.001
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_02.002
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.004
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.005
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_01.001
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_02.003
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_01.002
+		mesh is an instance of :  rock_01.001.  Processing halted.
+	processing begun of mesh:  rock_03.001
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_04.001
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.002
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_04.002
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.006
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.007
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_05.008
+		mesh is an instance of :  rock_05.006.  Processing halted.
+	processing begun of mesh:  rock_05.009
+		mesh is an instance of :  rock_05.007.  Processing halted.
+	processing begun of mesh:  rock_05.010
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.003
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_04.003
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.004
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.005
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_04.004
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.006
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_03.007
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  119
+		num normals        :  119
+		num tangents       :  0
+		num uvs            :  238
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_01.003
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_01.004
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_01.005
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_02.004
+		processing begun of material:  rock
+		registered as also a user of material:  rock
+		num positions      :  120
+		num normals        :  120
+		num tangents       :  0
+		num uvs            :  240
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  40
+	processing begun of mesh:  rock_02.005
+		mesh is an instance of :  rock_02.004.  Processing halted.
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  sun
+	writing mesh:  Landscape
+	writing mesh:  water
+	writing mesh:  tree.003
+	writing mesh:  tree.002
+	writing mesh:  tree.001
+	writing mesh:  rock_01
+	writing mesh:  rock_02
+	writing mesh:  rock_03
+	writing mesh:  rock_04
+	writing mesh:  rock_05
+	writing mesh:  rock_05.001
+	writing mesh:  rock_02.001
+	writing mesh:  rock_02.002
+	writing mesh:  rock_05.004
+	writing mesh:  rock_05.005
+	writing mesh:  rock_01.001
+	writing mesh:  rock_02.003
+	writing mesh:  rock_03.001
+	writing mesh:  rock_04.001
+	writing mesh:  rock_03.002
+	writing mesh:  rock_04.002
+	writing mesh:  rock_05.006
+	writing mesh:  rock_05.007
+	writing mesh:  rock_05.010
+	writing mesh:  rock_03.003
+	writing mesh:  rock_04.003
+	writing mesh:  rock_03.004
+	writing mesh:  rock_03.005
+	writing mesh:  rock_04.004
+	writing mesh:  rock_03.006
+	writing mesh:  rock_03.007
+	writing mesh:  rock_01.003
+	writing mesh:  rock_01.004
+	writing mesh:  rock_01.005
+	writing mesh:  rock_02.004
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 22.0232 secs

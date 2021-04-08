@@ -1,0 +1,84 @@
+Exporter version: 2.80.1, Blender version: 2.83.13
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\vesseau\
+	Python World class constructor completed
+	processing begun of node:  UFOCenterPoint
+	processing begun of mesh:  Sphere.003
+		processing begun of material:  Material.006
+		num positions      :  2689
+		num normals        :  2689
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1024
+	processing begun of mesh:  BezierCurve.005
+		processing begun of material:  Material.011
+		num positions      :  3733
+		num normals        :  3733
+		num tangents       :  0
+		num uvs            :  7466
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  7056
+	processing begun of mesh:  BezierCurve.006
+		processing begun of material:  Material.012
+		num positions      :  2328
+		num normals        :  2328
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  3432
+	processing begun of mesh:  BezierCurve.007
+		processing begun of material:  Material.013
+		processing begun of material:  Material.014
+		processing begun of multimaterial:  SportModel.Multimaterial#0
+		num positions      :  27118
+		num normals        :  27118
+		num tangents       :  0
+		num uvs            :  54236
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  51408
+		WARNING: # of 0 area faces found:  168
+	processing begun of camera (UniversalCamera):  Camera.002
+	processing begun of mesh:  Plane.002
+		processing begun of material:  Material.017
+		num positions      :  19446
+		num normals        :  19446
+		num tangents       :  0
+		num uvs            :  38892
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  32768
+	processing begun of mesh:  Sphere.002
+		processing begun of material:  Material.016
+		num positions      :  566
+		num normals        :  566
+		num tangents       :  0
+		num uvs            :  1132
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  960
+	processing begun of light (HEMI FROM AREA):  Area
+	processing begun of light (DIRECTIONAL):  Lamp.002
+========= Writing of JSON file started =========
+	writing mesh:  Sphere.003
+	writing mesh:  BezierCurve.005
+	writing mesh:  BezierCurve.006
+	writing mesh:  BezierCurve.007
+	writing mesh:  Plane.002
+	writing mesh:  Sphere.002
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 21.2285 secs

@@ -1,0 +1,108 @@
+Exporter version: 2.80.1, Blender version: 2.83.13
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\Jasmine\Desktop\Master 1\Semestre 2\Minor\ProjetBabyloneJs\models\Tree\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of mesh:  TreeBellA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture TreeBellA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 0.7324 secs
+		num positions      :  356
+		num normals        :  356
+		num tangents       :  0
+		num uvs            :  712
+		num uvs2           :  0
+		num colors         :  1424
+		num triangles      :  284
+	processing begun of mesh:  TreeDiamondA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture TreeDiamondA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 0.6196 secs
+		num positions      :  207
+		num normals        :  207
+		num tangents       :  0
+		num uvs            :  414
+		num uvs2           :  0
+		num colors         :  828
+		num triangles      :  116
+	processing begun of mesh:  TreePineA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture TreePineA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 0.9043 secs
+		num positions      :  508
+		num normals        :  508
+		num tangents       :  0
+		num uvs            :  1016
+		num uvs2           :  0
+		num colors         :  2032
+		num triangles      :  474
+	processing begun of mesh:  TreePinkA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture TreePinkA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 1.2376 secs
+		num positions      :  926
+		num normals        :  926
+		num tangents       :  0
+		num uvs            :  1852
+		num uvs2           :  0
+		num colors         :  3704
+		num triangles      :  597
+	processing begun of mesh:  TreeRoundA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: UVMap
+			processing texture TreeRoundA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "UVMap"
+			bake time:  0 min, 1.1327 secs
+		num positions      :  441
+		num normals        :  441
+		num tangents       :  0
+		num uvs            :  882
+		num uvs2           :  0
+		num colors         :  1764
+		num triangles      :  416
+	processing begun of mesh:  TreeStackA
+		processing begun of material:  Vtx
+			WARNING: unsupported node type(ShaderNodeAttribute) will trigger baking
+			Baking texture, type: EMIT, mapped using: BakingUV
+			processing texture TreeStackA_baked_EMIT
+				texture type:  emissiveTexture, mapped using: "BakingUV"
+			bake time:  0 min, 3.064 secs
+		num positions      :  1165
+		num normals        :  1165
+		num tangents       :  0
+		num uvs            :  2330
+		num uvs2           :  0
+		num colors         :  4660
+		num triangles      :  586
+========= Writing of JSON file started =========
+	writing mesh:  TreeBellA
+	writing mesh:  TreeDiamondA
+	writing mesh:  TreePineA
+	writing mesh:  TreePinkA
+	writing mesh:  TreeRoundA
+	writing mesh:  TreeStackA
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.3116 secs
